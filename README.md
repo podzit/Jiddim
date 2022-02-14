@@ -18,9 +18,9 @@ Copy-paste files to your web directory.
 
 | **Browser** | **Fully Compatible** | **Partially compatible** | **Not compatible** |
 |-------------|----------------------|--------------------------|--------------------|
-| Chromium    |      [ x ]             |                          |                    |
-| Chrome      |       [ x ]            |                          |                    |
-| Firefox     |                      |          [ x ]             |                    |
+| Chromium    | :heavy_check_mark:   |                          |                    |
+| Chrome      | :heavy_check_mark:   |                          |                    |
+| Firefox     |                      | :heavy_check_mark:       |                    |
 
 Go to your website url with a computer and turn the sound on.</br>
 Press keys to play drums, bass or skank (Guitar and piano together).</br>
