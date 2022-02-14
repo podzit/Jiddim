@@ -26,6 +26,7 @@ Copy-paste files to your web directory.
 | Safari      | :heavy_check_mark:   |                          |                    |
 | Mobile      | ✖️                    | ✖️                        | :heavy_check_mark: |
 | Vivaldi     | :heavy_check_mark:   |                          |                    |
+| Edge        | :heavy_check_mark:   |                          |                    |
 
 Go to your website url with a computer and turn the sound on.</br>
 Press keys to play drums, bass or skank (Guitar and piano together).</br>
