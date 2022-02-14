@@ -1,0 +1,52 @@
+.logo {
+    z-index: 2;
+    position: absolute;
+    top: 1vw;
+    padding-left: 1vw;
+}
+.container {
+    position: absolute;
+    z-index: 3;
+    left: 20vw;
+    width: 500px;
+    top: 3vw;
+}
+.top {
+    border: 1px rgb(156, 154, 154);
+    border-style: solid;
+    width: 45vw;
+    margin-left: 2vw;
+    text-align: center;
+    font-size: 1vw;
+    table-layout: fixed;
+}
+.container-middle {
+    position: absolute;
+    z-index: 3;
+    text-align: center;
+    font-size: 1vw;
+    padding-left: 30vw;
+    margin-top: 14vw;
+}
+.container-bottom {
+    position: relative;
+    z-index: 3;
+    text-align: center;
+    font-size: 1vw;
+    padding-left: 20vw;
+    padding-top: 17vw;
+    width: 70vw;
+}
+.selected {
+    text-transform: uppercase;
+    font-size: 0.9vw;
+    animation: glow 1.5s ease-in-out infinite alternate;
+}
+@keyframes glow {
+    from {
+      text-shadow: 0 0 20px #93d49c;
+    }
+    to {
+      text-shadow: 0 0 30px #66bb3e, 0 0 10px #2ac00c;
+    }
+}
