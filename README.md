@@ -14,24 +14,24 @@ Copy-paste files to your web directory.
 
 ## Usage
 
-<p>Go to your website url and test keys to play drums, bass or skank (Guitar and piano together).</p>
-<p>Bass is starting with drums by pressing arrows, loops are synchronized.</p>
-<p>Buffer of Firefox is not fully compatible...</p>
+Go to your website url and test keys to play drums, bass or skank (Guitar and piano together).</br>
+Bass is starting with drums by pressing arrows, loops are synchronized.</br>
+Buffer of Firefox is not fully compatible...</br>
 
 ## Made with
 
 ### Web part
-[Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[Bootstrap](https://getbootstrap.com/)
-[FontAwesome](https://fontawesome.com/)
+[Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)</br>
+[Bootstrap](https://getbootstrap.com/)</br>
+[FontAwesome](https://fontawesome.com/)</br>
 
 ### Audio editing
-[Cubase](https://www.steinberg.net/fr/cubase/)
-[Audacity](https://www.audacityteam.org/)
+[Cubase](https://www.steinberg.net/fr/cubase/)</br>
+[Audacity](https://www.audacityteam.org/)</br>
 
 ### Audio creation
-[Rubbadrum](https://www.westfinga.com/vstplugins)
-[komplete Kontrol](https://www.native-instruments.com/fr/products/komplete/bundles/komplete-kontrol/)
+[Rubbadrum](https://www.westfinga.com/vstplugins)</br>
+[komplete Kontrol](https://www.native-instruments.com/fr/products/komplete/bundles/komplete-kontrol/)</br>
 
 ## Contributing
 
