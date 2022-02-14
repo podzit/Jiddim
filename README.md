@@ -6,7 +6,7 @@ Make (reggae) music with your keyboard.
 
 ## Pré-requisite
 
-You need a web server (and sound on your computer).
+You need a web server.
 
 ## Installation
 
@@ -14,9 +14,17 @@ Copy-paste files to your web directory.
 
 ## Usage
 
-Go to your website url and test keys to play drums, bass or skank (Guitar and piano together).</br>
+### Compatibility
+
+| **Browser** | **Fully Compatible** | **Partially compatible** | **Not compatible** |
+|-------------|----------------------|--------------------------|--------------------|
+| Chromium    |      [x]             |                          |                    |
+| Chrome      |       [x]            |                          |                    |
+| Firefox     |                      |          [x]             |                    |
+
+Go to your website url with a computer and turn the sound on.</br>
+Press keys to play drums, bass or skank (Guitar and piano together).</br>
 Bass is starting with drums by pressing arrows, loops are synchronized.</br>
-Buffer of Firefox is not fully compatible...</br>
 
 ## Made with
 
