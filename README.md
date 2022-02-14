@@ -14,7 +14,7 @@ Copy-paste files to your web directory.
 
 ## Usage
 
-Go to your website url and test keys to play drums, bass or skank (Guitar and piano together).
+Go to your website url and test keys to play drums, bass or skank (Guitar and piano together).\n
 Bass is starting with drums by pressing arrows, loops are synchronized.
 Buffer of Firefox is not fully compatible...
 
