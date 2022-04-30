@@ -32,7 +32,7 @@ function checkNavigator(){
 };
 
 export function createDOM() {
-    audio.innerHTML = ``
+    audio.innerHTML = ``;
     htmlArray.forEach(e =>{
         audio.innerHTML += `<audio id="${e}" src="./assets/audio/${e}.ogg"></audio>`;
     })
